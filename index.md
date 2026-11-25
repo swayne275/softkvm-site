@@ -13,6 +13,10 @@ It is also useful if you move your Mac between multiple workstations.
 
 SoftKVM has no account, doesn't use the network, and collects no data.
 
+## How to use it
+
+New to SoftKVM? Read the [usage guide](guide) for setup steps, selecting multiple monitors and devices, and what everything in the window means.
+
 ## Support
 
 Questions or problems? Email [softkvmapp@gmail.com](mailto:softkvmapp@gmail.com).
